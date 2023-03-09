@@ -1,0 +1,84 @@
+ <html>
+     <head>
+        <title><h1>Curriculum Vitae</h1></title>
+		<style>
+		   #principal {
+		        border: solid 1px blue;
+				margin: 0 auto;
+				padding-top: 4px;
+				width: 800px;
+				background: #F5F5DC
+		     }
+			 body {
+			    background: #808080
+			 }
+			 fieldset {
+			 margin-bottom: 10px;
+			 background: #FFFFFF
+			 }
+			 legend {
+			 border: solid 3px #343f51;
+			 font-weight bold;
+			 background: #FFFF00;
+			 font-size: 30px;
+			 }
+			 #mifoto {
+			 margin: 5px;
+			 border: solid 2px;
+			 } 
+			 #h2 {
+			 font-family: #252850;
+			 }
+		
+		</style>
+     </head>
+     <body>
+	 <div id="principal">
+	    <img src="https://thumbs.dreamstime.com/b/perfil-sem-cara-do-avatar-da-mulher-de-neg%C3%B3cios-ilustra%C3%A7%C3%A3o-vetor-projeto-gr%C3%A1fico-143627080.jpg" id="mifoto" align="left" width="150"/>
+        <br>
+		<br>
+		<br>
+		<font face="Verdana" color="#B20256" ><h2>Sandra Elisabeth Ponce</h2></font>
+        <font face="Verdana" color="brown"<p>Enfermera</p></font>
+		<br>
+		<br>
+		<fieldset>
+		      <legend>Datos de Contacto</legend>
+		         <ul>
+				     <font face="Verdana"><li>Email: sandrap@live.com.address</li>
+					 <br>
+					 <li>Fecha de Nacimiento: 09/03/1993</li>
+					 <br>
+					 <li>Telefono: 033415674231</li>
+					 <br>
+					 <li>Linkedin: sandrap/linkedin </li></font>
+				 </ul>
+				 <br>
+				 
+	    </fieldset>
+		<fieldset>
+		      <legend>Formacion Academica</legend>
+		         <ul>
+				     <font face="Verdana"><li>Universidad Nacional de Cordoba (2007-2015)</li>
+					 <li>Instituto Superior Ditella-Licenciatura (2015-2018)</li>
+					 <li>Seminario de Investigación en Enfermeria Siglo XXI (2018-2020)</li></font>
+				 </ul>
+	    </fieldset>
+		<fieldset>
+		      <legend>Experiencia Laboral</legend>
+		         <ul>
+				     <font face="Verdana"><li>Hospital Cordoba: Enfermera auxiliar (2012-2015)</li>
+					 <li>Hospital San Roque: Engermera Supervisora (2015-2018)</li>
+					 <li>Hospital Italiano (Bs As):Jefa de Enfermeras (2018-actualmente)</li></font>
+				 </ul>
+	    </fieldset>
+		<fieldset>
+		      <legend>Idiomas</legend>
+		         <ul>
+				     <font face="Verdana"><li>Ingles : Avanzado oral y escritp</li>
+					 <li>Frances: Basico oral y escrito</li>
+					 <li>Coreano: Basico oral y escrito</li></font>
+				 </ul>
+	    </fieldset>
+     </body>
+</html>
